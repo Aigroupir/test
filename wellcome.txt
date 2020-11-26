@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 all hossein
+=======
+<<<<<<< HEAD
+hjgvhgh
+=======
+hossein
+>>>>>>> devHossein
+>>>>>>> master
