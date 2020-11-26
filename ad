@@ -31,3 +31,51 @@ Date:   Thu Nov 26 23:12:03 2020 +0330
 [1mdiff --git a/New Text Document.txt b/New Text Document.txt[m
 [1mnew file mode 100644[m
 [1mindex 0000000..e69de29[m
+[33mcommit ca5a12ad2832aeb488ecd2d292c5438ddce37d61[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 990bf9d 2a36034
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Fri Nov 27 00:58:05 2020 +0330
+
+    Merge branch 'devHossein'
+
+[33mcommit 2a360340a7bafb62d924313cbc7570143383b4e2[m
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Fri Nov 27 00:57:40 2020 +0330
+
+    branch dev hossein
+
+[33mcommit 990bf9d520fbd838bdcf7f384dac4986d588afc6[m
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Fri Nov 27 00:54:08 2020 +0330
+
+    test1
+
+[33mcommit 2f51ac9e3bbdbed680e2ace2463860007ed5f231[m
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Thu Nov 26 23:12:03 2020 +0330
+
+    First
+*   [33mcommit ca5a12ad2832aeb488ecd2d292c5438ddce37d61[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 990bf9d 2a36034
+[31m|[m [32m|[m Author: Hossein <hosseinabbasi20@gmail.com>
+[31m|[m [32m|[m Date:   Fri Nov 27 00:58:05 2020 +0330
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'devHossein'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 2a360340a7bafb62d924313cbc7570143383b4e2[m
+[31m|[m [32m|[m Author: Hossein <hosseinabbasi20@gmail.com>
+[31m|[m [32m|[m Date:   Fri Nov 27 00:57:40 2020 +0330
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     branch dev hossein
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 990bf9d520fbd838bdcf7f384dac4986d588afc6[m
+[32m|[m[32m/[m  Author: Hossein <hosseinabbasi20@gmail.com>
+[32m|[m   Date:   Fri Nov 27 00:54:08 2020 +0330
+[32m|[m   
+[32m|[m       test1
+[32m|[m 
+* [33mcommit 2f51ac9e3bbdbed680e2ace2463860007ed5f231[m
+  Author: Hossein <hosseinabbasi20@gmail.com>
+  Date:   Thu Nov 26 23:12:03 2020 +0330
+  
+      First
