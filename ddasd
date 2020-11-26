@@ -1,0 +1,26 @@
+[33mcommit 615acf6dafca17f70cca993b60af6244035b97de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Thu Nov 26 23:37:27 2020 +0330
+
+    22.txt file
+
+ 22.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 89d90b4de46a701d09648e4bfd7d704d456f35ed[m
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Thu Nov 26 23:35:30 2020 +0330
+
+    Change
+
+ New Text Document.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 2f51ac9e3bbdbed680e2ace2463860007ed5f231[m
+Author: Hossein <hosseinabbasi20@gmail.com>
+Date:   Thu Nov 26 23:12:03 2020 +0330
+
+    First
+
+ New Text Document.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
